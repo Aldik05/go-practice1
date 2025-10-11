@@ -1,3 +1,2 @@
-module example.com/practice2
-
-go 1.21
+module github.com/Aldik05/go-practice1/practice2
+go 1.25.1
